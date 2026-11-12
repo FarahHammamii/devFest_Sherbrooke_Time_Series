@@ -1,0 +1,8 @@
+,MAE (MW),RMSE (MW),MAPE (%),vs last week (%)
+Quantile LSTM (P50),530.4,728.5,3.1,53.9
+Linear (Keras),549.8,767.9,3.2,52.2
+LSTM (Keras),557.7,744.0,3.3,51.5
+TimesFM (zero-shot),585.6,839.9,3.4,49.1
+Same hour yesterday,810.6,1068.7,4.8,29.5
+Same hour last week,1150.0,1545.8,6.8,0.0
+Naive (last value),1722.6,2155.3,9.8,-49.8
